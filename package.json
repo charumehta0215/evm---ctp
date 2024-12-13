@@ -1,0 +1,15 @@
+{
+  "name": "evm-cctp-contracts",
+  "license": "Apache-2.0",
+  "scripts": {
+    "lint": "solhint '**/*.sol'"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.17",
+    "solhint": "^3.3.7"
+  }
+}
